@@ -8,3 +8,6 @@
 
     - #### The code randomly creates 2000 latitudes and longitutes, locates the nearest city and determines the current weather characteristics of that city.  The data is written to a .csv for use in the 2nd deliverable. 
     
+* ### Deliverable 2 WeatherPy Vacation Map
+
+    - #### After importing the City Weather .csv from deliverable 1, the nearest hotel to each city is determined using a Google API.  These hotels are added to the city weather file and used to create a heat map of locations with city, hotel name and weather conditions.  This map is saved to a .png shown below. ![]
