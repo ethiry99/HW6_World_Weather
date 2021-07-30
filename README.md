@@ -14,7 +14,7 @@
 
 * ### Deliverable 3 Vacation Itenerary Map
 
-    - #### The WeatherPy_vacation data is imported to a new Jupyter Notebook and used to identify 4 cities to create a map of a road trip.  Once the routed is determined via a Google API it is mapped and has markers created and displayed with ![]()
+    - #### The WeatherPy_vacation data is imported to a new Jupyter Notebook and used to identify 4 cities to create a map of a road trip.  Once the routed is determined via a Google API it is mapped and has markers created and displayed with hotel, city, country and current weather information.![](https://github.com/ethiry99/HW6_World_Weather/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 
 
